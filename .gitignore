@@ -25,4 +25,5 @@ wheels/
 .DS_Store
 .vscode/
 .idea/
+.pypirc
 

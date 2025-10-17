@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="fkr-cli",
+    name="fkr-data-cli",
     version="1.0.0",
     description="Gerador de dados fake multi-linguagem (Python, Delphi/Pascal, C#)",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="FKR CLI Contributors",
-    url="https://github.com/yourusername/fkr-cli",
+    url="https://github.com/gquadros-dev/fkr-cli",
     license="MIT",
     py_modules=['fkr'],
     packages=find_packages(),
