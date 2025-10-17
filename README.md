@@ -32,7 +32,7 @@ pip install -e .
 ```
 
 ## Uso
-
+(talvez tenha que adicionar o caminho de instalação ao path antes de usar)
 ```bash
 # Gerar JSON (padrão)
 fkr classes/pessoa.py:Pessoa -c 10
