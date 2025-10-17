@@ -14,7 +14,7 @@ FKR é um gerador de dados fake open source que facilita a criação de dados de
 ### Via pip (TestPyPI)
 
 ```bash
-pip install --index-url https://test.pypi.org/simple/ fkr-data-cli==1.0.0
+pip install fkr-cli==1.0.0
 ```
 
 ### Via GitHub
