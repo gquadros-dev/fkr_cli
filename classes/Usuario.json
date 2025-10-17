@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Nina",
+    "email": "andrefonseca@example.com",
+    "idade": 54
+  },
+  {
+    "nome": "José Pedro",
+    "email": "uazevedo@example.org",
+    "idade": 85
+  },
+  {
+    "nome": "Gabrielly",
+    "email": "ana-liz42@example.com",
+    "idade": 49
+  },
+  {
+    "nome": "Eloah",
+    "email": "nogueiraluiz-henrique@example.com",
+    "idade": 66
+  },
+  {
+    "nome": "Isadora",
+    "email": "jteixeira@example.com",
+    "idade": 44
+  }
+]
